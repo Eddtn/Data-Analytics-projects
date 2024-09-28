@@ -1,4 +1,4 @@
-# Data-Analytics-projects
+# Data-Analytics-project
 
 
 **Electric Vehicles Sales Analysis**
